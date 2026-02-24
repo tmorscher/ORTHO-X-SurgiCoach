@@ -2,11 +2,11 @@
 <img width="1200" height="475" alt="GHBanner" src="https://ortho-x.maivan.ai/wp-content/uploads/2025/03/cropped-Gemini_ORTHO-X.fyi_Logo_color_small-1.jpg" />
 </div>
 
-# Run and deploy your ORTHO-X SurgiCoach app
+# Run and deploy our ORTHO-X SurgiCoach app
 
-This contains everything you need to run your ORTHO-X SurgiCoach app locally.
+This contains everything you need to run the ORTHO-X SurgiCoach app locally.
 
-View your app in AI Studio: https://ai.studio/apps/721f1858-5234-480a-a15d-55d7ef3ceb2e
+View the Demo app: https://ortho-x-orthopedic-workflow-platform-for-diagnosi-103354814032.us-west1.run.app/
 
 ## Run Locally
 
