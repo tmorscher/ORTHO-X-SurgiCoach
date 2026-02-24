@@ -2,7 +2,7 @@
 <img width="1200" height="475" alt="GHBanner" src="https://ortho-x.maivan.ai/wp-content/uploads/2025/03/cropped-Gemini_ORTHO-X.fyi_Logo_color_small-1.jpg" />
 </div>
 
-# Run and deploy our ORTHO-X SurgiCoach app
+# Run and deploy the ORTHO-X SurgiCoach app
 
 This contains everything you need to run the ORTHO-X SurgiCoach app locally.
 
