@@ -1,10 +1,10 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="GHBanner" src="https://ortho-x.maivan.ai/wp-content/uploads/2025/03/cropped-Gemini_ORTHO-X.fyi_Logo_color_small-1.jpg" />
 </div>
 
-# Run and deploy your AI Studio app
+# Run and deploy your ORTHO-X SurgiCoach app
 
-This contains everything you need to run your app locally.
+This contains everything you need to run your ORTHO-X SurgiCoach app locally.
 
 View your app in AI Studio: https://ai.studio/apps/721f1858-5234-480a-a15d-55d7ef3ceb2e
 
